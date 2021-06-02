@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html class="expanded">
+<head>
+<meta charset="utf-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,Chrome=1" />
+<title>
+</title>
+<link rel="dns-prefetch" href="https://static-zhenrongbao-com.alikunlun.com" />
+<link rel="dns-prefetch" href="http://bbs.zhenrongbao.com" />
+<link rel="dns-prefetch" href="http://activity.zhenrongbao.com" />
+<link rel="dns-prefetch" href="http://static2.zhenrongbao.com" />
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+
+<meta name="google-site-verification" content="BCCu5HJiXVOl1Q9czskhGaF6XNT1MM3MkM-Ib6I_QYI" />
+<meta name="360-site-verification" content="9141ee4acc61fd72bd4013ab7cf7d681" />
+<meta name="sogou_site_verification" content="l2LjoQE4wZ" />
+<link rel="shortcut icon" type="image/x-icon" href="/static/enaccount_common/lib/img/favicon_02b780e.png" />
+<script type="text/javascript">
+            !function(){var n={_data:{},data:function(n,t){var a=this._data;if(n instanceof Object){for(var r in n)n.hasOwnProperty(r)&&(a[r]=n[r]);return a}return 2!=arguments.length?a[n]:void(a[n]=t)}};"P"in window||(window.P=n)}();;
+            P.data({
+                "_access_token": "",
+                "_platform": "pc",
+                "sequence_id": "",
+                "is_debug": "",
+                "error_no": "",
+                "error_message": ""
+            });
+            var _hmt=_hmt||[];!function(){var e=document.createElement("script");e.src="//hm.baidu.com/hm.js?c623214f9752cb51e7f85c21b8e170bc";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)}();;
+            (function(){var a = new Image();if(location.protocol=="https:"&&window._hmt){a.onerror=function(){_hmt.push(['_trackEvent','static','fail','']);};}a.src="../widget/header/image/logo.png";}());//logo加载失败统计
+        </script>
+
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="/static/enaccount_common/lib/css/layout_6d999d8.css" /><link rel="stylesheet" type="text/css" href="/static/enaccount_common/lib/css/ui-const_2a71cbc.css" /><link rel="stylesheet" type="text/css" href="/static/enaccount_common/lib/tooltip/tooltip_6b09a52.css" /><link rel="stylesheet" type="text/css" href="/static/enaccount_common/lib/layui/css/layui_045098d.css" /><link rel="stylesheet" type="text/css" href="/static/enaccount_account/layout/layout_002488d.css" /><link rel="stylesheet" type="text/css" href="/static/enaccount_account/widget/header/header_a079abb.css" /><link rel="stylesheet" type="text/css" href="/static/enaccount_account/widget/ui/IPassword/IPassword_0216df8.css" /><link rel="stylesheet" type="text/css" href="/static/enaccount_account/widget/login/login_b0a5a90.css" /></head>
+<body>
+
+
+
+<style type="text/css">
+    .langs {
+        position: absolute;
+        top: 10px;
+        right: 10px;
+        display: flex;
+    }
+</style>
+<div class="mod-header">
+<div class="langs">
+<a data-lang="zh_cn" class="change-lang btn default" href="#">English</a>
+</div>
+</div>
+
+<div class="account-layout">
+<div class="account-content">
+
+<div class="mod-login">
+<h1>-登录-</h1>
+<div class="login-block">
+<p class="label">用户名</p>
+<div class="input-wrap">
+<input type="text" class="input-common user-name" placeholder="邮箱前缀，如：niuyelei"/>
+</div>
+<p class="label">密码</p>
+<div class="input-wrap">
+<input type="password" class="input-common password" placeholder="静态密码+6位动态码，如：a1J23aq818928"/>
+<input type="hidden" class="input-hidden-redirect" value="/" />
+</div>
+<div class="tip clearfix">
+<div class="error-tip"><i class="icon"></i><span>登录失败</span></div>
+<div class="renew-password">
+<a href="/account/changepassword">修改静态密码</a>
+
+</div>
+</div>
+<div class="button-wrap">
+<a href="javascript:;" class="button-main button-disable btn-submit">提交</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+</body><script type="text/javascript" src="/static/enaccount_common/lib/js/mod_b818356.js"></script><script type="text/javascript">require.resourceMap({"res":[],"pkg":[]});</script><script type="text/javascript" src="/static/enaccount_common/lib/js/template_324e21c.js"></script><script type="text/javascript" src="/static/enaccount_common/lib/js/jquery-1.8.2_a1c7387.js"></script><script type="text/javascript" src="/static/enaccount_common/lib/js/jquery.zrb.ext_846576c.js"></script><script type="text/javascript" src="/static/enaccount_common/lib/js/jquery.lazyload_f517175.js"></script><script type="text/javascript" src="/static/enaccount_common/widget/ui/base/base_b4221f5.js"></script><script type="text/javascript" src="/static/enaccount_common/lib/js/uibase_3833706.js"></script><script type="text/javascript" src="/static/enaccount_common/lib/js/math-util_d0053cb.js"></script><script type="text/javascript" src="/static/enaccount_common/lib/js/date-util_89b43fa.js"></script><script type="text/javascript" src="/static/enaccount_common/lib/tooltip/tooltip_1f89ae7.js"></script><script type="text/javascript" src="/static/enaccount_common/lib/js/error-report_c80eca3.js"></script><script type="text/javascript" src="/static/enaccount_common/lib/layui/layui.all_d871359.js"></script><script type="text/javascript" src="/static/enaccount_account/widget/header/header_4ff0b7f.js"></script><script type="text/javascript" src="/static/enaccount_common/widget/ui/util/util_6bb564e.js"></script><script type="text/javascript" src="/static/enaccount_account/widget/ui/IPassword/IPassword_599789f.js"></script><script type="text/javascript" src="/static/enaccount_account/widget/login/login_48332b7.js"></script><script type="text/javascript">
+!function(){require("enaccount_account:widget/header/header.js")();
+}();
+!function(){P.data('ynjga','')
+require("enaccount_account:widget/login/login.js")();
+}();
+</script></html><!--20636038520450472970060215-->
+<script> var _trace_page_logid = 2063603852; </script>
